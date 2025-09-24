@@ -111,6 +111,12 @@ Please follow the folder and file naming conventions when adding new challenges.
 
 ---
 
+## 👨‍💻 Author
+
+**Abdelhamid Sherif**
+- GitHub: [@AbdelhamidSherif](https://github.com/AbdelhamidSherif)
+- LinkedIn: [Abdelhamid Sherif](https://linkedin.com/in/abdelhamid-sherif)
+
 ## 📜 License
 
 This project is open-source and available under the **MIT License**.
